@@ -4,5 +4,5 @@ SE VA HACER LA PRUEBA DE UN REPORTE EN GITHUB
 ### SUBSUBTITULO
 - IRVING DANIEL CARDOSO MOTA
 [Arduino IDE 1.8.19](https://www.arduino.cc/en/software)
-![]https://github.com/DiegoJm10/Mantenimiento-predicitivo-de-un-torno/blob/main/EVIDENCIA%20DE%20IMAGENES/esp32.jpg?raw=true
+![]![image](https://github.com/user-attachments/assets/dee4861f-d7d5-4f23-929d-907248a3a418)
 
