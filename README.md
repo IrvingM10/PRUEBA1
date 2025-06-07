@@ -9,3 +9,5 @@ SE VA HACER LA PRUEBA DE UN REPORTE EN GITHUB
 ```
 Hola como estas
 ```
+*CURSIVA*
+**NEGRITA**
